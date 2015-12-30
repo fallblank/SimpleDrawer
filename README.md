@@ -12,7 +12,7 @@ This is a simple interpreter for a simple drawing language.</br>
 <br>It set the scaling of your graph.
 <br>4.FOR T FROM start TO end STEP step DRAW(x,y)
 <br>It is the core statement of this language.It can drow point circularly,Which equals belowe Java statement:
-<br>for(double T=start;T<end;T+=step){
+<br>for(double T=start;T &lt end;T+=step){
 	//other code for get variable x and y
 	draw(x,y);
 <br>} 
