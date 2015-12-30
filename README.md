@@ -1,9 +1,9 @@
 # SimpleDrawer
-<br>This is a simple interpreter for a simple drawing language.
+This is a simple interpreter for a simple drawing language.</br>
 ##Screenshot
 
 ##Drawing Language Description
-<br>This is a loop drawing language.There is 5 type statements,as following:
+This is a loop drawing language.There is 5 type statements,as following:</br>
 <br>1.ORIGIN IS (X,Y)
 <br>It sets the origin of the graph which your want to draw.
 <br>2.ROT IS Z
@@ -17,7 +17,7 @@
 	<br>draw(x,y);
 <br>} 
 ##Project Directory Description
-<br>1.data---there is drawing language source code.
+1.data---there is drawing language source code.</br>
 <br>2.output---there is output file directory,which reports tokens of source.
 <br>3.souce---including source code of the project.
 <br>4.Compiler.jar---the compiled jar file that can execute.
